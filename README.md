@@ -2,9 +2,11 @@
 **1. Project Title:-**
 Global Market Dashboard & 15-Day Sales Forecast
 An interactive and analytical Power BI dashboard designed to analyze and forecast global market sales performance across various categories, regions, and timeframes.
+
 **2. Purpose:-**
 This dashboard provides a detailed visualization of global market sales trends, order priorities, product categories, and regional sales performance. It also includes a 15-day sales forecasting tool based on historical data to support better business decisions.
 The tool is intended for use by business analysts, marketing strategists, and decision-makers to monitor sales, evaluate performance, and forecast future demand.
+
 **3.**Tech Stack**:-**
 The dashboard was built using the following tools and technologies:
 Power BI Desktop – For building interactive reports and dashboards.
@@ -16,6 +18,7 @@ File Formats – .pbix for development and .png for screenshots or previews.
 **4. Data Source:-**
 this data taken from kaggle.
 The data used for this dashboard was derived from a global sales dataset that includes historical order data, product categories, shipping modes, profit, and delivery metrics.
+
 **5.Highlights:-**
 Dashboard 1: Global Market Overview
 Region-wise sales analysis
